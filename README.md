@@ -1,5 +1,6 @@
-#NeuroStartUp
-![Логотип Нетологии](https://netology.ru/dist/public/images/logo-color-text_6748e2.svg)
+# NeuroStartUp
+![](https://netology.ru/dist/public/images/logo-color-text_6748e2.svg)
+
 *NeuroStartUp* — динамично развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 Наши преимущества:
 - Высокая точность определения
