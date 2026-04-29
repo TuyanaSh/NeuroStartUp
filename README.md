@@ -1,5 +1,4 @@
-# NeuroStartUp
-![](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/refs/heads/main/1_self/logo.png)
+! [](https://github.com/netology-ds-team/git-homeworks/blob/3607055458feedfbbcf03da4281d78faa1af8685/1_self/logo.png)
 *NeuroStartUp* — динамично развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 Наши преимущества:
 - Высокая точность определения
